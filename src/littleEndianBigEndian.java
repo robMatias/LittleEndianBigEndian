@@ -38,7 +38,7 @@ public class littleEndianBigEndian {
         {
             resultado = new byte[] {b0, b1, b2, b3};
         }
-        return resultado;s
+        return resultado;
         
     }
     
